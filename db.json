@@ -1,0 +1,30 @@
+{
+  "form": [
+    {
+      "UserName": "Shashi Kumar",
+      "Age": "29",
+      "Addresh": "kankarbagh patna bihar",
+      "Department": "software development",
+      "Salary": "45000",
+      "marital_status": "on",
+      "id": 1
+    },
+    {
+      "UserName": "rahul kumar",
+      "Age": "25",
+      "Addresh": "raja bazar",
+      "Department": "sales",
+      "Salary": "5000",
+      "id": 2
+    },
+    {
+      "UserName": "rahul kumar",
+      "Age": "25",
+      "Addresh": "raja bazar",
+      "Department": "sales",
+      "Salary": "5000",
+      "marital_status": "on",
+      "id": 3
+    }
+  ]
+}
